@@ -42,7 +42,7 @@ $ python sudoku_sample_amplify.py
 操作回数 10
 ```
 
-下記では<Figure size 640x480 with 1 Axes>となっていますが、結果の画像が表示されます。
+上記では<Figure size 640x480 with 1 Axes>となっていますが、結果の画像が表示されます。
 
 ・jupyter notebookで実行する場合は2回実行する必要があるかもしれません）
 
