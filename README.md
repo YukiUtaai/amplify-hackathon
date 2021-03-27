@@ -19,9 +19,6 @@ $ python sudoku_sample_amplify.py
 ```
 
 ## 実行結果
-下記では<Figure size 640x480 with 1 Axes>となっていますが、結果の画像が表示されます。
-
-（jupyter notebookで実行する場合は2回実行する必要があるかもしれません）
 
 ```
 結果（0℃変更含む）
@@ -44,6 +41,19 @@ $ python sudoku_sample_amplify.py
 <Figure size 640x480 with 1 Axes>
 操作回数 10
 ```
+
+下記では<Figure size 640x480 with 1 Axes>となっていますが、結果の画像が表示されます。
+
+・jupyter notebookで実行する場合は2回実行する必要があるかもしれません）
+
+・WSL環境だとグラフが表示されない場合があります。下記のようにすることで画像を出力できます。
+
+```
+# plt.show()
+plt.savefig("img.png")
+```
+
+
 
 ## 提出前チェック
 
