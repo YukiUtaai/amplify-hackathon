@@ -81,7 +81,7 @@ AmplifyにてD-Wave Quantum Annealerが無償利用可能となりましたの�
 
 　　Title：会社での役職を書きます（学生ならStudentとかで良いのでしょうか）
 
-　　Affilation：会社名（学校名）を書けばいいと思います
+　　Affiliation：会社名（学校名）を書けばいいと思います
 
 　　Date：記入した日付を書きます（念のため米国風に　Sep/16/2021　みたいな感じで）
   
