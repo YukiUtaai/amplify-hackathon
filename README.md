@@ -97,7 +97,7 @@ AmplifyにてD-Wave Quantum Annealerが無償利用可能となりましたの�
 
 ２. プログラム中の2セル目の冒頭が`use_dwave = True`であることを確認する。
 
-（`use_dwave = False`とするとAMplify AEで実行します。）
+（`use_dwave = False`とするとAplify AEで実行します。）
 
 
 補足．equal_to関数を使うとD-Waveマシンでは制約を満たす解を得られづらいと感じたので、1セル目の最初のほうの`use_equal_to`というパラメータを設け、Falseであればequal_to関数を用いずにペナルティ項を設定しています。パラメータをいじってみるのも良いかもしれません。
